@@ -23,6 +23,7 @@
 ## 4. 字节跳动
 
 - [Bytedance Inc. (github.com)](https://github.com/bytedance)
+- 字节跳动技术团队（公众号）
 
 ## 5. 美团
 
@@ -49,6 +50,7 @@
 ## 9. 滴滴
 
 - [DiDi (github.com)](https://github.com/didi)
+- 滴滴技术（公众号）
 
 ## 10. b站
 
@@ -65,3 +67,4 @@
 ## 13. 伴鱼
 
 - [伴鱼技术团队](https://tech.ipalfish.com/blog/)
+
